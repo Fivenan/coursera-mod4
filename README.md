@@ -1,5 +1,4 @@
 # coursera-mod4
-My solution to Coursera class Module 4
-Limanan Nursalim
+Solution to the 5th Module of Coursera HTML, CSS, JS by Limanan Nursalim
 
-https://fivenan.github.io/coursera-mod4/
+https://fivenan.github.io/coursera-mod5/
